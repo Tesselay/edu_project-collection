@@ -1,0 +1,30 @@
+Dodo
+30
+15
+8
+10
+11
+Empty Hand
+Lemo
+30
+11
+15
+9
+10
+Empty Hand
+Nimo
+30
+16
+10
+9
+12
+Empty Hand
+Shiko
+30
+16
+9
+16
+15
+Empty Hand
+0
+0
