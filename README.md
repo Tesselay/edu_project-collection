@@ -17,7 +17,7 @@ Protokoll 2:
 - Next big progamming assignment. Another Text-RPG with Multiplayer-function (not online) and other additions. Written with     functions. Multiple files.
 
 Protokoll 3:
-- Third 'release' of Text-RPG, with multiple additions and written with classes. Multiple files.
+- Third assignment and 'release' of Text-RPG, with multiple additions and written with classes. Multiple files.
 
 Protokoll 4:
-- Last release of the Text-RPG, again with multiple additions (Storyline, bossfights, weapons, etc.). Multiple files.
+- Last assignment/release of the Text-RPG, again with multiple additions (Storyline, bossfights, weapons, etc.). Multiple files.
