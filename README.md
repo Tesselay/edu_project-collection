@@ -10,6 +10,9 @@ E-Calculator:
 Encryption algorithms:
 - ROT13 and Vigeneré algorithm.
 
+SQL-Manager:
+- Last programming assignment of second year. A Dvd-Manager with GUI written in Java (uses JavaFX).
+
 Protokoll 1:
 - First big programming assignment. Text-RPG in by-line execution (no functions or classes)
 
