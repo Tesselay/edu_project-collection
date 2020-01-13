@@ -14,7 +14,7 @@ SQL-Manager:
 - Last programming assignment of second year. A Dvd-Manager with GUI written in Java (uses JavaFX).
 
 Protokoll 1:
-- First big programming assignment. Text-RPG in by-line execution (no functions or classes)
+- First big programming assignment of the first year. Text-RPG in by-line execution (no functions or classes)
 
 Protokoll 2:
 - Next big progamming assignment. Another Text-RPG with Multiplayer-function (not online) and other additions. Written with     functions. Multiple files.
@@ -23,4 +23,4 @@ Protokoll 3:
 - Third assignment and 'release' of Text-RPG, with multiple additions and written with classes. Multiple files.
 
 Protokoll 4:
-- Last assignment/release of the Text-RPG, again with multiple additions (Storyline, bossfights, weapons, etc.). Multiple files.
+- Last assignment/release of the first year and Text-RPG, again with multiple additions (Storyline, bossfights, weapons, etc.). Multiple files.
