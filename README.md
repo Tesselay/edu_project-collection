@@ -6,9 +6,13 @@ Encryption algorithms:
 SQL-Manager:
 - Last programming assignment of second year. A Dvd-Manager with GUI written in Java (uses JavaFX).
 # School
+
 <br />
+
 Some of the projects done while studying at Europaschule Schulzentrum SII Utbremen. Mainly Java & Python
+
 <br />
+
 ## Year 1
 ### Cinema
 ```
@@ -43,14 +47,18 @@ Third assignment and 'release' of Text-RPG, with multiple additions and written 
 ```
 Last assignment/release of the first year and Text-RPG, again with multiple additions (Storyline, bossfights, weapons, etc.). Multiple files.
 ```
+
 <br />
+
 ## Section 12 - Pointers and References
 ### Challenge
 ```
 Create an application, that takes two arrays as an input and multiplies one with another to output a 
 combined array.
 ```
+
 <br />
+
 ## Section 14 - Operator Overloading
 ### Lecture 159
 ```
