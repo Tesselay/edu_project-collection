@@ -36,14 +36,17 @@ Second exam of first year. Procedural Text-RPG with additional functionalites.
 You can play singleplayer or local multiplayer. 
 In singpleplayer you can create a character, again with stat system 
 classes, now with level system and randomly generated characters. You play on a field where you can move 
-between fields, which either have an empty room, healing room, monster fight, boss fight or end boss fight. Has 
-multiple difficulties.
+between fields, which either have an empty room, healing room, monster fight, boss fight or end boss fight. 
+Has multiple difficulties.
 Multiplayer pits two players against each other on an empty playfield. Every player has units, which can 
 attack enemy units.
 ```
 ### Exam 3
 ```
-Third assignment and 'release' of Text-RPG, with multiple additions and written with classes. Multiple files.
+Third exam of first year. OOP Text-RPG with additional functionalities.
+Added random events, weapons and improved fight system. Uses extensive ingame menu, with ability to create
+multiple characters, create groups and add characters to them, as well as save them to a file. Lacks boss
+fights.
 ```
 ### Exam 4
 ```
